@@ -75,11 +75,11 @@ I am a Master’s student in Data Science with a strong background in data engin
 ## 📫 How to reach me
 
 <a href="mailto:nvarabioff@gmail.com">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=mailbox.org&logoColor=white" />
+  <img alt="nvarabioff@gmail.com" src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=mailbox.org&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/nvarabioff/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="https://www.linkedin.com/in/nvarabioff/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://nicholasvarabioff.ca/">
-  <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img alt="https://nicholasvarabioff.ca/" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
