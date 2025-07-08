@@ -21,7 +21,7 @@ https://github.com/badges/shields
 https://simpleicons.org/
 -->
 
-I'm a Data Engineer and Machine Learning Engineer with a Master of Data Science and a passion for sports analytics. My technical experience includes designing cloud-based data architectures, building efficient ETL workflows, working with relational databases and SQL, and developing machine learning models. I’m actively exploring opportunities in data engineering and ML engineering with a focus on sports analytics. I’m particularly interested in leveraging AI to support performance optimization and strategic decision making.
+I'm a Data Engineer and Machine Learning Engineer with a Master of Data Science. My technical experience includes designing cloud-based data architectures, building efficient ETL workflows, working with relational databases and SQL, and developing machine learning models. I’m actively exploring opportunities in data engineering and ML engineering.
 
 ### Programming Languages
 
