@@ -21,7 +21,7 @@ https://github.com/badges/shields
 https://simpleicons.org/
 -->
 
-I'm a Data Engineer and Machine Learning Engineer with a Master of Data Science. My technical experience includes designing cloud-based data architectures, building efficient ETL workflows, working with relational databases and SQL, and developing machine learning models. I’m actively exploring opportunities in data engineering and ML engineering.
+I'm a data engineer and machine learning engineer with a Masters of Data Science. My technical experience includes designing cloud-based data architectures, building efficient ETL workflows, working with relational databases and SQL, and developing machine learning models. I’m actively exploring opportunities in data engineering and ML engineering.
 
 ### Programming Languages
 
