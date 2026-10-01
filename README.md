@@ -23,7 +23,7 @@ https://simpleicons.org/
 
 I'm a data engineer and machine learning engineer with a Masters of Data Science. My technical experience includes designing cloud-based data architectures, building efficient ETL workflows, working with relational databases and SQL, and developing machine learning models.
 
-### Programming Languages
+### Programming Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -33,8 +33,9 @@ I'm a data engineer and machine learning engineer with a Masters of Data Science
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-### Database Tools
+### Database & Cloud Tools
 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,6 +63,8 @@ I'm a data engineer and machine learning engineer with a Masters of Data Science
 
 ### Visualization
 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Dash](https://img.shields.io/badge/Plotly_Dash-F2F4F9?style=for-the-badge&logo=plotly&logoColor=black)
 ![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=shiny&logoColor=white)
 
